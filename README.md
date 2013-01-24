@@ -1,13 +1,12 @@
 Wooster
 
 
-||Private project by monkey, for aero-mmo MC server's||
+||Monkey's test attempts in the land of python||
 
-*Use at your own risk*
+*not to be used by mortals*
 
-*Includes fist attempt at java script*
+*laughing at it? May a thousand monkey's forever scream under your windows*
 
-*laugh at it, and may a thousand monkey's forever scream under your windows*
 
 
 
