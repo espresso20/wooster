@@ -1,7 +1,7 @@
 Wooster
 
 
-||Monkey's test attempts in the land of python||
+||Monkey's test attempts in the land of python,go, and other such junk ||
 
 *not to be used by mortals*
 
